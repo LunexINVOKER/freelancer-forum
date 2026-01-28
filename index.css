@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(205, 203, 203);
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border:1px solid #998a8a;
+}
+table {
+  width: 85%;
+}
